@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server that provides weather data from the Open-M
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NickDatLe/mcp-weather.git
 cd MCP-Weather
 ```
 
