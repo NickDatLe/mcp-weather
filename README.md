@@ -238,7 +238,11 @@ The server should start without errors. You can then test it by configuring it i
 
 ## License
 
-[Add your license information here]
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This means you can do whatever you want with this code: use it, modify it, distribute it, sell it, etc. No restrictions!
 
 ## API Limits
 
